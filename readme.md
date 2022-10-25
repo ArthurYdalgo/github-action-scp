@@ -2,6 +2,8 @@
 
 Simple GitHub Action to copy a folder or single file to a remote server using SSH. This is working with the latest [GitHub Actions](https://github.com/features/actions).
 
+Disclaimer: this action is a fork on a [similar action](https://github.com/garygrossgarten/github-action-scp) from [garygrossgarten](https://github.com/garygrossgarten)
+
 ## ✨ Example Usage
 
 **Copy a folder recursively to a remote server**
